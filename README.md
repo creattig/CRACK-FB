@@ -6,7 +6,7 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone git clone https://github.com/creattig/CRACK-FB
+$ git clone https://github.com/creattig/CRACK-FB
 
 $ cd CRACK-FB
 
