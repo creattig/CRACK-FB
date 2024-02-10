@@ -6,17 +6,17 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/NANGG-BADUTCODE/CRACK-FB
+$ git clone git clone https://github.com/creattig/CRACK-FB
 
 $ cd CRACK-FB
 
-$ python CYBER-INDONESIA.py
+$ python Dec_Cyber.py
 
 # CARA UPDATE
 
 $ git pull
 
-$ python CYBER-INDONESIA.py
+$ python Cyber.py
 
 
 # HANYA SEBATAS PEMANIS
